@@ -1,0 +1,14 @@
+D:\GitHub\Week02\C# Değişkenler ve Veri Tipleri Ödevleri\SORU02\bin\Debug\net8.0\SORU02.exe
+D:\GitHub\Week02\C# Değişkenler ve Veri Tipleri Ödevleri\SORU02\bin\Debug\net8.0\SORU02.deps.json
+D:\GitHub\Week02\C# Değişkenler ve Veri Tipleri Ödevleri\SORU02\bin\Debug\net8.0\SORU02.runtimeconfig.json
+D:\GitHub\Week02\C# Değişkenler ve Veri Tipleri Ödevleri\SORU02\bin\Debug\net8.0\SORU02.dll
+D:\GitHub\Week02\C# Değişkenler ve Veri Tipleri Ödevleri\SORU02\bin\Debug\net8.0\SORU02.pdb
+D:\GitHub\Week02\C# Değişkenler ve Veri Tipleri Ödevleri\SORU02\obj\Debug\net8.0\SORU02.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Week02\C# Değişkenler ve Veri Tipleri Ödevleri\SORU02\obj\Debug\net8.0\SORU02.AssemblyInfoInputs.cache
+D:\GitHub\Week02\C# Değişkenler ve Veri Tipleri Ödevleri\SORU02\obj\Debug\net8.0\SORU02.AssemblyInfo.cs
+D:\GitHub\Week02\C# Değişkenler ve Veri Tipleri Ödevleri\SORU02\obj\Debug\net8.0\SORU02.csproj.CoreCompileInputs.cache
+D:\GitHub\Week02\C# Değişkenler ve Veri Tipleri Ödevleri\SORU02\obj\Debug\net8.0\SORU02.dll
+D:\GitHub\Week02\C# Değişkenler ve Veri Tipleri Ödevleri\SORU02\obj\Debug\net8.0\refint\SORU02.dll
+D:\GitHub\Week02\C# Değişkenler ve Veri Tipleri Ödevleri\SORU02\obj\Debug\net8.0\SORU02.pdb
+D:\GitHub\Week02\C# Değişkenler ve Veri Tipleri Ödevleri\SORU02\obj\Debug\net8.0\SORU02.genruntimeconfig.cache
+D:\GitHub\Week02\C# Değişkenler ve Veri Tipleri Ödevleri\SORU02\obj\Debug\net8.0\ref\SORU02.dll
